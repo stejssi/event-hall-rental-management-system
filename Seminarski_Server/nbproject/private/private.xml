@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/niti/ObradaKlijentskihZahteva.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/controller/Controller.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/terminzakupa/IzmeniTerminZakupaSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/zakupci/IzmeniZakupcaSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/ugovor/PrikazUgovoraSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/zakupci/PrikazZakupcaSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/zaposleni/PrikazZaposleniSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/konfiguracija/Konfiguracija.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/zakupci/DodajZakupcaSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/ugovor/IzmeniUgovorSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/repository/db/impl/DbRepositoryGeneric.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/zakupci/KreirajZakupcaSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/repository/Repository.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/repository/db/DbRepository.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/terminzakupa/UbaciTerminZakupaSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/ApstraktnaGenerickaOperacija.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/ugovor/DodajUgovorSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/repository/db/DbConnectionFactory.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/zakupci/ObrisiZakupcaSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/forme/ServerskaForma.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/forme/KonfiguracijaPorta.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/forme/KonfiguracijaBaze.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/ugovor/KreirajUgovorSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/zaposleni/PrijaviZaposleniSO.java</file>
+            <file>file:/C:/Users/Stasa/Documents/NetBeansProjects/Seminarski_Server/src/operacija/terminzakupa/PrikazTerminaZakupaSO.java</file>
+        </group>
+    </open-files>
+</project-private>
